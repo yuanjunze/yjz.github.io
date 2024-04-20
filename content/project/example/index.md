@@ -1,6 +1,6 @@
 ---
 title: Cobot Welding system
-summary: An example of using the in-built project page.
+summary: Human - Robot fast welding system base on cobot.
 tags:
   - Mobile welding system; collaborative robot
 date: '2021-12-31T00:00:00Z'
@@ -9,8 +9,9 @@ date: '2021-12-31T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by yjz
   focal_point: Smart
+  path: project/example/feature.jpg
 
 links:
   - icon: 
