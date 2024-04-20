@@ -1,50 +1,46 @@
 ---
 # Display name
-title: 吳健雄
-
+title: 袁鋆泽
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yuan Jun Ze
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junze
+last_name: Yuan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⭕❌❌
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tampere University
+    url: https://www.tuni.fi/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: let it be.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Machine Vision
+  - Intelligent Manufactury
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Mechatronic Engineering
+      institution: Northwestern Polytechnical University
+      year: 2023
+    - course: BSc in Mechatronic Engineering
+      institution: Northwestern Polytechnical University
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,35 +52,40 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: C++
+        description: 'so freaking hard'
+        percent: 66
+        icon: cplusplus
+        icon_pack: devicon
+      - name: PyTorch
+        description: 'learning it!'
         percent: 40
-        icon: database
-        icon_pack: fas
+        icon: pytorch
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Dota2
+        description: 'I am like a bot'
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: ❤️
+        icon_pack:
+      - name: Basketball
+        description: 'PG13'
+        percent: 100
+        icon: ⛹️‍♀️
+        icon_pack: 
+      - name: Gym
+        description: 'Light weight babe'
+        percent: 100
+        icon: 🏋️‍♀️
+        icon_pack: 
+      - name: Touching fish
+        description: '别™的摸鱼了'
+        percent: 100
+        icon: 🐟
+        icon_pack:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +94,26 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:junze_yuan@foxmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/JunzeYuan81509
+    label: 
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/yuanjunze
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Junze Yuan.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Doctoral student at Fast-Lab, Tampere University. I love play dota2 and touching fish. My research interest include Robotics, Machine Vision, and Intelligent Manufactury.	🤖🤖🤖
 {style="text-align: justify;"}
