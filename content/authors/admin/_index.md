@@ -55,7 +55,7 @@ skills:
       - name: C++
         description: 'so freaking hard'
         percent: 66
-        icon: c-plusplus
+        icon: cplusplus
         icon_pack: devicon
       - name: PyTorch
         description: 'learning it!'
@@ -69,23 +69,23 @@ skills:
       - name: Dota2
         description: 'I am like a bot'
         percent: 100
-        icon: ❤️
-        icon_pack: ''
+        icon: gamepad
+        icon_pack: fab
       - name: Bass
         description: '你弹这四根弦的玩意有什么用'
         percent: 100
-        icon: 🎸👍👎👍👎👍👎
-        icon_pack: ''
+        icon: guitar-electric
+        icon_pack: fab
       - name: Gym
         description: 'Light weight babe'
         percent: 100
-        icon: 🏋️‍♀️
-        icon_pack: ''
+        icon: dumbbell
+        icon_pack: fab
       - name: Touching fish
         description: '别™的摸鱼了'
         percent: 100
-        icon: 🐟
-        icon_pack: ''
+        icon: "fa-sharp fa-thin fa-fish"
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
