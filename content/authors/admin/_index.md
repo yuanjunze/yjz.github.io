@@ -2,7 +2,7 @@
 # Display name
 title: 袁鋆泽
 # Name pronunciation (optional)
-name_pronunciation: Yuan Jun Ze
+name_pronunciation: Yuan JunZe
 
 # Full name (for SEO)
 first_name: Junze
@@ -29,8 +29,8 @@ bio: let it be.
 # Interests to show in About widget
 interests:
   - Robotics
+  - Embodied Intelligence
   - Machine Vision
-  - Intelligent Manufactury
 
 # Education to show in About widget
 education:
@@ -55,7 +55,7 @@ skills:
       - name: C++
         description: 'so freaking hard'
         percent: 66
-        icon: cplusplus
+        icon: c-plusplus
         icon_pack: devicon
       - name: PyTorch
         description: 'learning it!'
@@ -70,22 +70,22 @@ skills:
         description: 'I am like a bot'
         percent: 100
         icon: ❤️
-        icon_pack:
-      - name: Basketball
-        description: 'PG13'
+        icon_pack: ''
+      - name: Bass
+        description: '你弹这四根弦的玩意有什么用'
         percent: 100
-        icon: ⛹️‍♀️
-        icon_pack: 
+        icon: 🎸👍👎👍👎👍👎
+        icon_pack: ''
       - name: Gym
         description: 'Light weight babe'
         percent: 100
         icon: 🏋️‍♀️
-        icon_pack: 
+        icon_pack: ''
       - name: Touching fish
         description: '别™的摸鱼了'
         percent: 100
         icon: 🐟
-        icon_pack:
+        icon_pack: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -115,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a Doctoral student at Fast-Lab, Tampere University. I love play dota2 and touching fish. My research interest include Robotics, Machine Vision, and Intelligent Manufactury.	🤖🤖🤖
+I am currently a Doctoral student at Fast-Lab, Tampere University. I love play dota2 and touching fish. My research interest include Robotics, Embodied Intelligence, and Machine Vision.	🤖🤖🤖
 {style="text-align: justify;"}
