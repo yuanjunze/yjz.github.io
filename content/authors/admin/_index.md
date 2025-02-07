@@ -50,18 +50,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
+        icon: fab/python
       - name: C++
         description: 'so freaking hard'
         percent: 66
-        icon: cplusplus
-        icon_pack: devicon
+        icon: fab/c
       - name: PyTorch
         description: 'learning it!'
         percent: 40
-        icon: pytorch
-        icon_pack: devicon
+        icon: fab/fire
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -69,23 +66,21 @@ skills:
       - name: Dota2
         description: 'I am like a bot'
         percent: 100
-        icon: gamepad
+        icon: fab/gamepad
         icon_pack: fab
       - name: Bass
         description: '你弹这四根弦的玩意有什么用'
         percent: 100
-        icon: guitar-electric
+        icon: fab/guitar
         icon_pack: fab
       - name: Gym
         description: 'Light weight babe'
         percent: 100
-        icon: dumbbell
-        icon_pack: fab
+        icon: fab/dumbbell
       - name: Touching fish
         description: '别™的摸鱼了'
         percent: 100
-        icon: "fa-sharp fa-thin fa-fish"
-        icon_pack: fab
+        icon: fab/fish
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
