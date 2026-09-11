@@ -1,16 +1,15 @@
 ---
-title: "An example journal article"
+title: "Skeleton-based estimation of interaction readiness via spatio-temporal graph convolution"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Yuan, Junze
+- Mohammed, Wael M
+- Perez, Manuel Ferre
+- Lastra, Jose L Martinez
+date: "2026-05"
+doi: "10.1016/j.patrec.2026.02.021"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-05"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +17,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Pattern Recognition Letters"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Estimating a person’s readiness to engage is a critical prerequisite for achieving natural interactions with machines. In this work, we explore a skeleton-based approach for estimating interaction readiness from human motion. A two-stream spatio-temporal graph convolutional network is applied as backbone. We propose two design changes to the backbone: Local Dense Connection (LDC), which enhances the flow of multi-scale features, and Cross-Stream Attention (CSA) module, allowing it to effectively relate joint and bone features. Rather than classifying actions directly, a probabilistic aggregation strategy is introduced to generate a scalar measure of interaction readiness, which helps the model generalize better to real-world scenes. Experiment on the processed NTU-RGB+D 120 dataset demonstrates the proposed method achieves 82.52% top-1 accuracy, outperforming backbone model. Moreover, experiment on real-world data achieves ROC-AUC = 0.9687 in realistic conditions, indicating the robustness and generalization ability of the proposed method with lightweight parameters (8.30 M). While relatively lightweight, the method offers a practical solution for scenarios that require fast, interpretable estimation such as human-robot interaction settings.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.sciencedirect.com/science/article/pii/S0167865526000681)
+url_code: '[https://github.com/HugoBlox/hugo-blox-builder](https://github.com/yuanjunze/Skeleton-based-interaction-readiness-estimation)'
 url_dataset: ''
 url_poster: ''
 url_project: ''
