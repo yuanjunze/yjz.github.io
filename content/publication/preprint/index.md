@@ -1,4 +1,3 @@
-
 ---
 title: "Fitting an Elephant with Four non-Zero Parameters"
 
