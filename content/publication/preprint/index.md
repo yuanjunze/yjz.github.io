@@ -1,68 +1,33 @@
+
 ---
-title: "An example preprint / working paper"
+title: "Fitting an Elephant with Four non-Zero Parameters"
+
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+  - Dian Jin
+  - Junze Yuan
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: "2024-07-02"
+publishDate: "2024-07-02"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+doi: "10.48550/arXiv.2407.07909"
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication_types: ["manuscript"]
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+publication: "arXiv preprint arXiv:2407.07909"
+publication_short: "arXiv"
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: >-
+  In 1953, Enrico Fermi criticized Dyson's model by quoting Johnny
+  von Neumann: "With four parameters I can fit an elephant, and
+  with five I can make him wiggle his trunk." So far, there have
+  been several attempts to fit an elephant using four parameters,
+  but as the problem has not been well-defined, the current methods
+  do not completely satisfy the requirements. This paper defines
+  the problem and presents an attempt.
 
-tags:
-- Source Themes
-featured: false
+featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: "https://arxiv.org/pdf/2407.07909"
+url_source: "https://arxiv.org/abs/2407.07909"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -32,10 +32,6 @@ url_pdf: ''
 url_code: 'https://github.com/yuanjunze/Skeleton-based-interaction-readiness-estimation'
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0167865526000681'
 
-slides: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Overview'
   focal_point: ""
@@ -47,19 +43,3 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
