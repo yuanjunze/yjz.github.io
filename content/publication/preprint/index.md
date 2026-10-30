@@ -28,5 +28,4 @@ featured: true
 
 url_pdf: "https://arxiv.org/pdf/2407.07909"
 url_source: "https://arxiv.org/abs/2407.07909"
-
 ---
