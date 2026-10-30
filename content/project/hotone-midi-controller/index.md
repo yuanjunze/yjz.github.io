@@ -10,6 +10,7 @@ tags:
   - Desktop Application
 
 url_code: "https://github.com/yuanjunze/Hotone-Ampero-II-stomp-Desk-ToneSwitcher"
+url_video: 'https://www.bilibili.com/video/BV1mZDCBFE9n/?spm_id_from=333.337.search-card.all.click'
 ---
 
 ## Overview

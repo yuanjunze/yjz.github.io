@@ -198,6 +198,8 @@ sections:
         folders:
           - publication
         featured_only: true
+        sort_by: Date
+        sort_ascending: false
     design:
       columns: '2'
       view: card
