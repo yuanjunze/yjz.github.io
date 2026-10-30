@@ -26,14 +26,13 @@ abstract: Estimating a person’s readiness to engage is a critical prerequisite
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.sciencedirect.com/science/article/pii/S0167865526000681)
-url_code: '[https://github.com/HugoBlox/hugo-blox-builder](https://github.com/yuanjunze/Skeleton-based-interaction-readiness-estimation)'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+featured: true
+
+url_pdf: ''
+url_code: 'https://github.com/yuanjunze/Skeleton-based-interaction-readiness-estimation'
+url_source: 'https://www.sciencedirect.com/science/article/pii/S0167865526000681'
+
+slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
