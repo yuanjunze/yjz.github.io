@@ -17,7 +17,6 @@ links:
   - icon: 
     icon_pack: 
     name: 
-    url: 
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S2212827122004693"
 
 

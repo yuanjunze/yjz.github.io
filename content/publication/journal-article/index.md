@@ -5,11 +5,11 @@ authors:
 - Mohammed, Wael M
 - Perez, Manuel Ferre
 - Lastra, Jose L Martinez
-date: "2026-05"
+date: "2026-05-01T00:00:00Z"
 doi: "10.1016/j.patrec.2026.02.021"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-05"
+publishDate: "2026-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
