@@ -13,10 +13,6 @@ image:
   focal_point: Smart
   path: project/example/feature.jpg
 
-links:
-  - icon: 
-    icon_pack: 
-    name: 
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S2212827122004693"
 
 
