@@ -55,10 +55,6 @@ skills:
         description: 'so freaking hard'
         percent: 66
         icon: fab/c
-      - name: PyTorch
-        description: 'learning it!'
-        percent: 40
-        icon: fab/fire
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -77,8 +73,8 @@ skills:
         description: 'Light weight babe'
         percent: 100
         icon: fab/dumbbell
-      - name: Touching fish
-        description: '别™的摸鱼了'
+      - name: Guitar
+        description: '好！'
         percent: 100
         icon: fab/fish
 
